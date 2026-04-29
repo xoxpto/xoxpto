@@ -27,7 +27,7 @@ Hands-on lab simulating enterprise identity management using Microsoft Entra ID,
 ### 🔹 Conditional Access Security Design Lab
 Designed Conditional Access policies based on Zero Trust principles, including MFA enforcement, location-based access control, and security strategy design.
 
-👉 https://github.com/xoxpto/SEU-REPO-2
+👉 https://github.com/xoxpto/azure-entra-conditional-access-lab
 
 ---
 
